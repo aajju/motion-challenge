@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/motion-challenge/static/js/main.6b7a94a4.js",
+    "main.js": "/motion-challenge/static/js/main.bb1d9ac0.js",
     "index.html": "/motion-challenge/index.html",
-    "main.6b7a94a4.js.map": "/motion-challenge/static/js/main.6b7a94a4.js.map"
+    "main.bb1d9ac0.js.map": "/motion-challenge/static/js/main.bb1d9ac0.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b7a94a4.js"
+    "static/js/main.bb1d9ac0.js"
   ]
 }
